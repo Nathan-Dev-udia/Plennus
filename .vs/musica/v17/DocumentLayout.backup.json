@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programasao\\Form\\fiscal\\plennus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89FDF569-9171-4B7D-92AF-6F4530C5AA79}|musica.csproj|e:\\programasao\\form\\fiscal\\plennus\\properties\\importacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89FDF569-9171-4B7D-92AF-6F4530C5AA79}|musica.csproj|solutionrelative:properties\\importacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FDF569-9171-4B7D-92AF-6F4530C5AA79}|musica.csproj|E:\\Programasao\\Form\\fiscal\\plennus\\properties\\importacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89FDF569-9171-4B7D-92AF-6F4530C5AA79}|musica.csproj|solutionrelative:properties\\importacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FDF569-9171-4B7D-92AF-6F4530C5AA79}|musica.csproj|E:\\Programasao\\Form\\fiscal\\plennus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89FDF569-9171-4B7D-92AF-6F4530C5AA79}|musica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FDF569-9171-4B7D-92AF-6F4530C5AA79}|musica.csproj|E:\\Programasao\\Form\\fiscal\\plennus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89FDF569-9171-4B7D-92AF-6F4530C5AA79}|musica.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FDF569-9171-4B7D-92AF-6F4530C5AA79}|musica.csproj|E:\\Programasao\\Form\\fiscal\\plennus\\notascadastradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89FDF569-9171-4B7D-92AF-6F4530C5AA79}|musica.csproj|solutionrelative:notascadastradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89FDF569-9171-4B7D-92AF-6F4530C5AA79}|musica.csproj|E:\\Programasao\\Form\\fiscal\\plennus\\notascadastradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89FDF569-9171-4B7D-92AF-6F4530C5AA79}|musica.csproj|solutionrelative:notascadastradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "notascadastradas.cs",
+              "DocumentMoniker": "E:\\Programasao\\Form\\fiscal\\plennus\\notascadastradas.cs",
+              "RelativeDocumentMoniker": "notascadastradas.cs",
+              "ToolTip": "E:\\Programasao\\Form\\fiscal\\plennus\\notascadastradas.cs",
+              "RelativeToolTip": "notascadastradas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:26:32.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "importacao.cs",
+              "DocumentMoniker": "E:\\Programasao\\Form\\fiscal\\plennus\\Properties\\importacao.cs",
+              "RelativeDocumentMoniker": "Properties\\importacao.cs",
+              "ToolTip": "E:\\Programasao\\Form\\fiscal\\plennus\\Properties\\importacao.cs",
+              "RelativeToolTip": "Properties\\importacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:48:19.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Programasao\\Form\\fiscal\\plennus\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Programasao\\Form\\fiscal\\plennus\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADgvw0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:21:42.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Programasao\\Form\\fiscal\\plennus\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Programasao\\Form\\fiscal\\musica\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\musica\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:19:58.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "importacao.cs [Design]",
+              "DocumentMoniker": "E:\\Programasao\\Form\\fiscal\\plennus\\Properties\\importacao.cs",
+              "RelativeDocumentMoniker": "Properties\\importacao.cs",
+              "ToolTip": "E:\\Programasao\\Form\\fiscal\\musica\\Properties\\importacao.cs [Design]",
+              "RelativeToolTip": "..\\musica\\Properties\\importacao.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:14:12.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "notascadastradas.cs [Design]",
+              "DocumentMoniker": "E:\\Programasao\\Form\\fiscal\\plennus\\notascadastradas.cs",
+              "RelativeDocumentMoniker": "notascadastradas.cs",
+              "ToolTip": "E:\\Programasao\\Form\\fiscal\\musica\\notascadastradas.cs [Design]",
+              "RelativeToolTip": "..\\musica\\notascadastradas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T19:26:21.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
